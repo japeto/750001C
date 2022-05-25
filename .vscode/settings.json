@@ -1,0 +1,20 @@
+{
+    "terminal.integrated.fontSize": 14,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 15,
+    "editor.fontLigatures": true,
+    "editor.semanticHighlighting.enabled": false,    
+    "workbench.colorTheme": "GitHub Light",
+    "workbench.startupEditor": "none",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "workbench.preferredDarkColorTheme": "Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.tree.expandMode": "doubleClick",
+    "workbench.colorCustomizations": {
+    
+    }
+}
